@@ -2,7 +2,7 @@
 title: "Como Se Lammy"
 email: ""
 description: "Photo Journal"
-url: "https://timeemit.github.io"
+url: "https://como-se-lammy.github.io"
 baseurl: "/como-se-lammy"
 facebook_username: "comoselammy"
 twitter_username: "comoselammy"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://timeemit.github.io/como-se-lammy/gallery/"
-  - JOURNAL: "https://timeemit.github.io/como-se-lammy/journal/"
-  - ABOUT: "https://timeemit.github.io/como-se-lammy/about/"
+  - GALLERY: "https://como-se-lammy.github.io/como-se-lammy/gallery/"
+  - JOURNAL: "https://como-se-lammy.github.io/como-se-lammy/journal/"
+  - ABOUT: "https://como-se-lammy.github.io/como-se-lammy/about/"
 
 # All translation keys
 translations:
