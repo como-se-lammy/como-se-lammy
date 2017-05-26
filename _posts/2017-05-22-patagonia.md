@@ -1,6 +1,7 @@
 ---
 layout: page
 active: journal
+header-img: "img/writing-bg.jpg"
 subtitle: Hiking through pure beauty in Torres del Paine & El Chalten
 image:
   feature: mountains.jpg
