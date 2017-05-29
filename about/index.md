@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-header-img: "img/about-bg.jpg"
+header-img: "img/galleries/patagonia/IMG_8282.jpg"
 description: "Our travels through Latin America"
 active: about
 
